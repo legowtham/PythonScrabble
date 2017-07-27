@@ -1,8 +1,8 @@
 # PythonScrabble
 Simple Scrabble program using Python.
 
-fn1.py - Determine if a word can be formed using the letters given to you.
+fn1.py - To check if the words were made with a chunks of alphabets .
 
-fn2.py - Handle wildcard characters. "?" can represent any of the 26 characters.
+fn2.py - Same functions with wildcard handler.
 
-fn3.py - Determine the longest word in the enable1 dictionary that can be formed.
+fn3.py - Find the longest word in the enable1 dict that can be created.
